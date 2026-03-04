@@ -1,0 +1,12 @@
+{
+  "event": "deleted_claimed_item",
+  "itemId": 3,
+  "itemTitle": "Test",
+  "itemStatus": "lost",
+  "itemContact": "Anonymous",
+  "itemLocation": "Lib",
+  "claimDate": "2026-03-03",
+  "claimerNickname": "Unknown",
+  "claimRecordedAt": "2026-03-03T08:05:19.916Z",
+  "deletedAt": "2026-03-04T06:03:33.483Z"
+}
