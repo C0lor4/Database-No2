@@ -1,0 +1,12 @@
+{
+  "event": "deleted_claimed_item",
+  "itemId": 16,
+  "itemTitle": "testn",
+  "itemStatus": "lost",
+  "itemContact": "1000000",
+  "itemLocation": "asd",
+  "claimDate": "2026-03-04",
+  "claimerNickname": "",
+  "claimRecordedAt": "2026-03-04T06:06:33.663Z",
+  "deletedAt": "2026-03-04T06:06:44.922Z"
+}
